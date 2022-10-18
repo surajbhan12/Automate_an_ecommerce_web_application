@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="58809" started-at="2022-10-18T09:57:47 IST" finished-at="2022-10-18T09:58:46 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="58809" started-at="2022-10-18T09:57:47 IST" finished-at="2022-10-18T09:58:46 IST">
+      <class name="com.example.NewTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.example.NewTest@cb0ed20]" name="beforeTest" is-config="true" duration-ms="14984" started-at="2022-10-18T09:57:47 IST" finished-at="2022-10-18T09:58:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="flipcartPageTest()[pri:0, instance:com.example.NewTest@cb0ed20]" name="flipcartPageTest" duration-ms="37901" started-at="2022-10-18T09:58:02 IST" finished-at="2022-10-18T09:58:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flipcartPageTest -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.example.NewTest@cb0ed20]" name="afterTest" is-config="true" duration-ms="5864" started-at="2022-10-18T09:58:40 IST" finished-at="2022-10-18T09:58:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.example.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
